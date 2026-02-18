@@ -1,16 +1,47 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://ivanlilla.me">
+    <img src="https://ivanlilla.me" alt="Ivan Lilla" />
+  </a>
+</p>
 
-<!--
-**Cozinheiro80/cozinheiro80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Ivan Lilla</h1>
+<p align="center">
+  Fullstack developer • Indie hacker • Paris • Blockchain enthusiast
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://ivanlilla.me">Website</a> •
+  <a href="https://ivanlilla.me/articles">Articles</a> •
+  <a href="https://ivanlilla.me/projects">Projects</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About
+I’m Ivan, a fullstack developer and indie hacker based in Paris.  
+Background in data mining, and I like exploring new technologies.
+
+**Main stack:** Python, JavaScript, Solidity, PHP
+
+### 🚀 Featured projects
+- **Actuarem** — actuarial platform to simplify welfare & healthcare calculations: https://actuarem.com
+- **TailorTale** — AI-powered storyteller for children: https://tailortale.com
+- **Aops Events** — events management app: https://evenements.aops.fr
+- **AOPS** — actuarial consulting firm: https://aops.fr
+
+### ✍️ Writing
+If you like long-form content: https://ivanlilla.me/articles
+
+### 📫 Contact
+- Website: https://ivanlilla.me
+- LinkedIn: (add link)
+- Email: (add email)
+
+---
+
+<details>
+<summary>📊 GitHub stats</summary>
+
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_GITHUB_USERNAME&show_icons=true)
+
+</details>
