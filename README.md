@@ -12,10 +12,31 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" />
+<!-- Core -->
+<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" />
+<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" />
 <img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" />
+<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=white" />
+
+<br/>
+
+<!-- Frameworks -->
+<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" />
+
+<br/>
+
+<!-- Systems -->
+<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" />
+
+<br/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" />
+<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" />
 
 </div>
 
@@ -26,8 +47,8 @@
 I build products end-to-end: from **data and backend** to **UI and deployment**.  
 Background in **data mining** — I enjoy shipping fast, iterating, and exploring new tech.
 
-**Main stack:** Python · JavaScript · Solidity · PHP  
-**Focus:** product engineering, automation, data pipelines, fintech/insurtech
+**Main stack:** TypeScript · Next.js · Node.js · Python  
+**Also used:** Vue.js · Rust · Go · PostgreSQL · MongoDB · Solidity · PHP
 
 ---
 
