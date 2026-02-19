@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://ivanlilla.me">
-    <img src="https://ivanlilla.me" alt="Ivan Lilla" />
-  </a>
-</p>
-
 <h1 align="center">Ivan Lilla</h1>
 <p align="center">
   Fullstack developer • Indie hacker • Paris • Blockchain enthusiast
@@ -25,9 +19,10 @@ Background in data mining, and I like exploring new technologies.
 
 ### 🚀 Featured projects
 - **Actuarem** — actuarial platform to simplify welfare & healthcare calculations: https://actuarem.com
-- **TailorTale** — AI-powered storyteller for children: https://tailortale.com
-- **Aops Events** — events management app: https://evenements.aops.fr
 - **AOPS** — actuarial consulting firm: https://aops.fr
+- **Classifications** - RH, firm job classifications: https://classifications.aops.fr
+- **OSAT** - Observatory for health and employee benefits risks: https://observatoire.aops.Fr
+- **TailorTale** — AI-powered storyteller for children: https://tailortale.com
 
 ### ✍️ Writing
 If you like long-form content: https://ivanlilla.me/articles
