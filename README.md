@@ -1,42 +1,34 @@
 <div align="center">
 
-# Ivan Lilla
+<!-- Optional: nice header banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Ivan%20Lilla&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:6366f1&fontColor=ffffff" />
 
-**Full-stack developer** · **Indie hacker** · Paris · Blockchain enthusiast
+<p>
+  <b>Full-stack developer</b> · <b>Indie hacker</b> · Paris · Blockchain enthusiast
+</p>
 
-<a href="https://ivanlilla.me"><b>Website</b></a>
-&nbsp;·&nbsp;
-<a href="https://ivanlilla.me/articles"><b>Articles</b></a>
-&nbsp;·&nbsp;
-<a href="https://ivanlilla.me/projects"><b>Projects</b></a>
+<p>
+  <a href="https://ivanlilla.me"><b>Website</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://ivanlilla.me/articles"><b>Articles</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://ivanlilla.me/projects"><b>Projects</b></a>
+</p>
+
+<!-- Modern “pill” badges -->
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-0ea5e9?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-22c55e?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-f59e0b?style=for-the-badge&logo=python&logoColor=111827" />
+</p>
+
+<!-- Clean icon grid -->
+<img
+  src="https://skillicons.dev/icons?i=ts,js,python,nodejs,php,solidity,nextjs,vue,rust,go,postgres,mongodb&theme=dark&perline=6"
+/>
 
 <br/><br/>
-
-<!-- Core -->
-<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" />
-<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" />
-<img src="https://img.shields.io/badge/PHP-282C34?logo=php&logoColor=777BB4" />
-<img src="https://img.shields.io/badge/Solidity-282C34?logo=solidity&logoColor=white" />
-
-<br/>
-
-<!-- Frameworks -->
-<img src="https://img.shields.io/badge/Next.js-282C34?logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vue.js-282C34?logo=vue.js&logoColor=4FC08D" />
-
-<br/>
-
-<!-- Systems -->
-<img src="https://img.shields.io/badge/Rust-282C34?logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-282C34?logo=go&logoColor=00ADD8" />
-
-<br/>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=4169E1" />
-<img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" />
 
 </div>
 
@@ -44,7 +36,7 @@
 
 ## 👋 About
 
-I build products end-to-end: from **data and backend** to **UI and deployment**.  
+I build products end-to-end: from **data & backend** to **UI & deployment**.  
 Background in **data mining** — I enjoy shipping fast, iterating, and exploring new tech.
 
 **Main stack:** TypeScript · Next.js · Node.js · Python  
@@ -54,25 +46,25 @@ Background in **data mining** — I enjoy shipping fast, iterating, and explorin
 
 ## 🚀 Featured projects
 
-### Actuarem — actuarial platform
-Simplifies **employee benefits** & **health insurance** calculations.  
-→ https://actuarem.com
+- **Actuarem** — actuarial platform  
+  Simplifies **employee benefits** & **health insurance** calculations.  
+  → https://actuarem.com
 
-### AOPS — actuarial consulting firm
-Actuarial & advisory services in **employee benefits** and **health**.  
-→ https://aops.fr
+- **AOPS** — actuarial consulting firm  
+  Actuarial & advisory services in **employee benefits** and **health**.  
+  → https://aops.fr
 
-### Classifications — job classification platform
-A platform to manage and benchmark **job classifications** for companies.  
-→ https://classifications.aops.fr
+- **Classifications** — job classification platform  
+  Manage and benchmark **job classifications** for companies.  
+  → https://classifications.aops.fr
 
-### OSAT — risk observatory
-Observatory for **health** and **employee benefits** risks & analytics.  
-→ https://observatoire.aops.fr
+- **OSAT** — risk observatory  
+  Observatory for **health** and **employee benefits** risks & analytics.  
+  → https://observatoire.aops.fr
 
-### TailorTale — AI storyteller for kids
-Create personalized children stories with AI (text + images).  
-→ https://tailortale.com
+- **TailorTale** — AI storyteller for kids  
+  Create personalized children stories with AI (text + images).  
+  → https://tailortale.com
 
 ---
 
