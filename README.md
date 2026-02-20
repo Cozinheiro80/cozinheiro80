@@ -42,11 +42,11 @@ Full-stack developer · Indie hacker · Paris · Blockchain enthusiast
 
 <!-- GitHub stats -->
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cozinheiro80&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e" />
+  <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cozinheiro80&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e" /> -->
   <img height="165" src="https://streak-stats.demolab.com?user=Cozinheiro80&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Cozinheiro80&style=flat&color=22c55e" alt="Profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Cozinheiro80&style=flat&color=22c55e" alt="Profile views"/> -->
 
 </div>
 
