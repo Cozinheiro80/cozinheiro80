@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Optional: nice header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Ivan%20Lilla&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:6366f1&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=Cozinheiro&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:6366f1&fontColor=ffffff" />
 
 <p>
   <b>Full-stack developer</b> · <b>Indie hacker</b> · Paris · Blockchain enthusiast
@@ -9,10 +9,6 @@
 
 <p>
   <a href="https://ivanlilla.me"><b>Website</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://ivanlilla.me/articles"><b>Articles</b></a>
-  &nbsp;·&nbsp;
-  <a href="https://ivanlilla.me/projects"><b>Projects</b></a>
 </p>
 
 <!-- Modern “pill” badges -->
@@ -77,6 +73,5 @@ Long-form articles and technical notes:
 
 ## 📫 Contact
 
-- Website: https://ivanlilla.me  
-- LinkedIn: **(add link)**  
-- Email: **(add email)**
+- Website: https://ivanlilla.me    
+- Email: cozinheiro.dev@gmail.com
