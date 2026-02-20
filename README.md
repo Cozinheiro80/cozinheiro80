@@ -1,11 +1,7 @@
 <div align="center">
 
-<!-- ===================== -->
-<!-- Terminal-like header  -->
-<!-- ===================== -->
-<div style="max-width: 920px; width: 100%; border: 1px solid #30363d; border-radius: 14px; overflow: hidden; background: #0d1117;">
+<div style="text-align:center;max-width: 920px; width: 100%; border: 1px solid #30363d; border-radius: 14px; overflow: hidden; background: #0d1117;">
 
-  <!-- Fake window bar -->
   <div style="display: flex; align-items: center; gap: 8px; padding: 10px 14px; background: #161b22; border-bottom: 1px solid #30363d;">
     <span style="width: 10px; height: 10px; border-radius: 50%; background: #ff5f56; display: inline-block;"></span>
     <span style="width: 10px; height: 10px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
@@ -32,17 +28,13 @@ Full-stack developer · Indie hacker · Paris · Blockchain enthusiast
 
 <br/>
 
-<a href="https://ivanlilla.me"><b>Website</b></a>
-&nbsp;·&nbsp;
-<a href="https://ivanlilla.me/articles"><b>Articles</b></a>
-&nbsp;·&nbsp;
-<a href="https://ivanlilla.me/projects"><b>Projects</b></a>
+<a href="https://ivanlilla.me"><b>About me</b></a>
 
 <br/><br/>
 
 <!-- Tech icons -->
 <img
-  src="https://skillicons.dev/icons?i=ts,js,python,nodejs,php,solidity,nextjs,vue,rust,go,postgres,mongodb&theme=dark&perline=6"
+  src="https://skillicons.dev/icons?i=ts,js,python,nodejs,php,solidity,nextjs,vue,rust,go,postgres,mongodb,linux&theme=dark&perline=6"
   alt="Tech stack icons"
 />
 
@@ -104,5 +96,4 @@ Long-form articles and technical notes:
 ## 📫 Contact
 
 - Website: https://ivanlilla.me  
-- LinkedIn: **https://linkedin.com/in/TON_LINKEDIN**  
-- Email: **ton.email@domaine.com**
+- Email: **cozinheiro.dev@gmail.com**
