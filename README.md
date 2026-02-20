@@ -7,14 +7,14 @@
     <span style="width: 10px; height: 10px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
     <span style="width: 10px; height: 10px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
     <span style="margin-left: 10px; color: #8b949e; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 12px;">
-      bash — ivan@paris: ~
+      bash — cozinheiro@napoli: ~
     </span>
   </div>
 
   <!-- Typing terminal -->
   <div style="padding: 14px;">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=650&color=22C55E&vCenter=true&multiline=true&width=880&height=110&lines=ivan%40paris%3A~%24+whoami;Full-stack+developer+%C2%B7+Indie+hacker+%C2%B7+Paris;ivan%40paris%3A~%24+ls+-la+projects;Actuarem+%7C+AOPS+%7C+Classifications+%7C+OSAT+%7C+TailorTale"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=650&color=22C55E&vCenter=true&multiline=true&width=880&height=110&lines=ivan%40paris%3A~%24+WhoAmI;Full-stack+developer+%C2%B7+Indie+hacker+%C2%B7+Paris;ivan%40paris%3A~%24+ls+-la+projects;Actuarem+%7C+AOPS+%7C+Classifications+%7C+OSAT+%7C+TailorTale"
       alt="Terminal header typing"
     />
   </div>
@@ -34,7 +34,7 @@ Full-stack developer · Indie hacker · Paris · Blockchain enthusiast
 
 <!-- Tech icons -->
 <img
-  src="https://skillicons.dev/icons?i=ts,js,python,nodejs,php,solidity,nextjs,vue,rust,go,postgres,mongodb,linux&theme=dark&perline=6"
+  src="https://skillicons.dev/icons?i=ts,js,python,nodejs,php,solidity,nextjs,vue,rust,go,postgres,mongodb,linux,tailwind&theme=dark&perline=6"
   alt="Tech stack icons"
 />
 
@@ -42,8 +42,8 @@ Full-stack developer · Indie hacker · Paris · Blockchain enthusiast
 
 <!-- GitHub stats -->
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e" />
-  <!-- <img height="165" src="https://streak-stats.demolab.com?user=Cozinheiro80&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" /> -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Cozinheiro80&show_icons=true&hide_title=true&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9&icon_color=22c55e" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Cozinheiro80&hide_border=true&background=0d1117&ring=22c55e&fire=22c55e&currStreakLabel=22c55e&sideLabels=c9d1d9&dates=8b949e&sideNums=c9d1d9&currStreakNum=c9d1d9" />
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=Cozinheiro80&style=flat&color=22c55e" alt="Profile views"/>
