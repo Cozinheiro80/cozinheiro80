@@ -14,7 +14,7 @@
   <!-- Typing terminal -->
   <div style="padding: 14px;">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=650&color=22C55E&vCenter=true&multiline=true&width=880&height=110&lines=ivan%40paris%3A~%24+WhoAmI;Full-stack+developer+%C2%B7+Indie+hacker+%C2%B7+Paris;ivan%40paris%3A~%24+ls+-la+projects;Actuarem+%7C+AOPS+%7C+Classifications+%7C+OSAT+%7C+TailorTale"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=650&color=22C55E&vCenter=true&multiline=true&width=880&height=110&lines=cozinheiro%40napoli%3A~%24+WhoAmI;Full-stack+developer+%C2%B7+Indie+hacker+%C2%B7+Paris;cozinheiro%40napoli%3A~%24+ls+-la+projects;Actuarem+%7C+AOPS+%7C+Classifications+%7C+OSAT+%7C+TailorTale"
       alt="Terminal header typing"
     />
   </div>
