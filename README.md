@@ -7,14 +7,14 @@
     <span style="width: 10px; height: 10px; border-radius: 50%; background: #ffbd2e; display: inline-block;"></span>
     <span style="width: 10px; height: 10px; border-radius: 50%; background: #27c93f; display: inline-block;"></span>
     <span style="margin-left: 10px; color: #8b949e; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace; font-size: 12px;">
-      bash — cozinheiro@napoli: ~
+      bash — cozinheiro@napoli💙: ~
     </span>
   </div>
 
   <!-- Typing terminal -->
   <div style="padding: 14px;">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=650&color=22C55E&vCenter=true&multiline=true&width=880&height=110&lines=cozinheiro%40napoli%3A~%24+Who%20Am%20I;Full-stack+developer+%C2%B7+Indie+hacker+%C2%B7+Paris;cozinheiro%40napoli%3A~%24+ls+-la+projects;Actuarem+%7C+AOPS+%7C+Classifications+%7C+OSAT+%7C+TailorTale"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2600&pause=650&color=22C55E&vCenter=true&multiline=true&width=880&height=110&lines=cozinheiro%40napoli%3A~%24+Who%20Am%20I;Full-stack+developer+%C2%B7+Indie+hacker+%C2%B7+Napoli💙;cozinheiro%40napoli%3A~%24+ls+-la+projects;Actuarem+%7C+AOPS+%7C+Classifications+%7C+OSAT+%7C+TailorTale"
       alt="Terminal header typing"
     />
   </div>
@@ -24,7 +24,7 @@
 <br/>
 
 <b>Ivan Lilla</b><br/>
-Full-stack developer · Indie hacker · Paris · Blockchain enthusiast
+Full-stack developer · Indie hacker · Napoli💙 · Blockchain enthusiast
 
 <br/>
 
