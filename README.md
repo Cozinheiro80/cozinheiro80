@@ -28,7 +28,7 @@ Full-stack developer · Indie hacker · Napoli💙 · Blockchain enthusiast
 
 <br/>
 
-<a href="https://ivanlilla.me"><b>About me</b></a>
+<a href="https://ivanlilla.com"><b>About me</b></a>
 
 <br/><br/>
 
@@ -82,18 +82,18 @@ Background in **data mining** — I enjoy shipping fast, iterating, and explorin
 
 - **TailorTale** — AI storyteller for kids  
   Create personalized children stories with AI (text + images).  
-  → https://tailortale.com
+  → https://tailortale-eight.vercel.app/
 
 ---
 
 ## ✍️ Writing
 
 Long-form articles and technical notes:  
-→ https://ivanlilla.me/articles
+→ https://ivanlilla.com/articles
 
 ---
 
 ## 📫 Contact
 
-- Website: https://ivanlilla.me  
+- Website: https://ivanlilla.com 
 - Email: **cozinheiro.dev@gmail.com**
