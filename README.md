@@ -84,7 +84,7 @@ Background in **data mining** — I enjoy shipping fast, iterating, and explorin
   Three days. One city. Shaped for you
   → https://threedaysin.com/
 
-  - **Optendra** — AI augmented tenders manager  
+- **Optendra** — AI augmented tenders manager  
   Turn every tender file into a clear, complete and compelling response 
   → https://optendra.vercel.app/
 
