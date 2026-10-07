@@ -80,6 +80,14 @@ Background in **data mining** — I enjoy shipping fast, iterating, and explorin
   Observatory for **health** and **employee benefits** risks & analytics.  
   → https://observatoire.aops.fr
 
+- **ThreeDaysIn** — AI traveller for long weekends  
+  Three days. One city. Shaped for you
+  → https://threedaysin.com/
+
+  - **Optendra** — AI augmented tenders manager  
+  Turn every tender file into a clear, complete and compelling response 
+  → https://optendra.vercel.app/
+
 - **TailorTale** — AI storyteller for kids  
   Create personalized children stories with AI (text + images).  
   → https://tailortale-eight.vercel.app/
